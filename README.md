@@ -2,7 +2,7 @@
 SimpleLoginApp using Java Swings
 
 
-Simple Login Page using Java Swing
+# Simple Login Page using Java Swing
 This is a basic Java Swing application that demonstrates a simple login page with a username and password field. When the user enters their credentials and clicks the "Login" button, the application checks if the credentials are correct and displays a success or failure message accordingly.
 
 Getting Started
